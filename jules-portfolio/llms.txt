@@ -1,0 +1,43 @@
+# Jules Houndekannou
+
+## Short summary
+Jules Houndekannou is a cybersecurity and IT operations professional focused on securing critical infrastructure and leading technical projects. He combines hands-on operations with strategic project management.
+
+## Role and positioning
+- Cybersecurity: blue team, network security, and infrastructure hardening
+- IT operations: availability, monitoring, incident readiness
+- IT project leadership: audits, roadmaps, delivery, vendor coordination
+
+## Core strengths
+- Pragmatic, field-oriented security architecture
+- High-availability telecom and data center operations
+- Documentation, process discipline, and risk reduction
+- Cross-functional collaboration and autonomous execution
+
+## Experience highlights
+- Critical operations in telecom environments with strict SLA requirements
+- Security hardening of firewalls and load balancers
+- IT transformation projects for SMEs from audit to deployment
+- Systems and network administration for international institutions
+
+## Technical expertise
+- Networking and security: pfSense, Cisco, VPN (IPsec, OpenVPN), IDS/IPS
+- Monitoring and analysis: ELK Stack, Wireshark
+- Offensive security: Kali Linux, Nmap, Metasploit, OWASP Top 10
+- Systems and automation: Linux (Debian/RedHat), Windows Server, Bash, Python
+- Project methods: Agile, V-Model, technical documentation, IT governance
+
+## Education and certifications
+- EILCO: engineering studies in security and networks (2023-present)
+- IFRI-UAC: bachelor in cybersecurity (2020-2023)
+- Certifications: MTCNA, ISC2 CC, SecNumAcademie
+
+## Ideal conversations
+- Securing critical infrastructure and reducing attack surfaces
+- High-availability operations and telecom-grade resilience
+- IT transformation, audits, and roadmap definition
+- Operational security, monitoring, and incident readiness
+
+## Contact
+- Email: enagnonhoundekannou@gmail.com
+- Location: France / International
